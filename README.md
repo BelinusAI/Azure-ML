@@ -1,2 +1,2 @@
-# Azure-Machine Learning
+# Azure Machine Learning
 Azure ML with python
